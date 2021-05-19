@@ -1,0 +1,11 @@
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\LeagueOfLegendsApplication\bin\Debug\RiotGamesAPI.dll
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\LeagueOfLegendsApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\LeagueOfLegendsApplication\bin\Debug\RiotGamesAPI.pdb
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\LeagueOfLegendsApplication\obj\x86\Debug\LeagueOfLegendsApplication.csprojResolveAssemblyReference.cache
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\LeagueOfLegendsApplication\obj\x86\Debug\LeagueOfLegendsApplication.Form_Main.resources
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\LeagueOfLegendsApplication\obj\x86\Debug\LeagueOfLegendsApplication.csproj.GenerateResource.Cache
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\LeagueOfLegendsApplication\bin\Debug\RiotGamesAPIConsole.exe
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\LeagueOfLegendsApplication\bin\Debug\RiotGamesAPIConsole.pdb
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\LeagueOfLegendsApplication\obj\x86\Debug\RiotGamesAPIConsole.Properties.Resources.resources
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\LeagueOfLegendsApplication\obj\x86\Debug\RiotGamesAPIConsole.exe
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\LeagueOfLegendsApplication\obj\x86\Debug\RiotGamesAPIConsole.pdb

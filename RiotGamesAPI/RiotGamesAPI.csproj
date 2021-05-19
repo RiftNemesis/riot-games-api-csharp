@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EE72EA2B-B0BF-4FC2-A410-E387B9A91368}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RiotGamesAPI</RootNamespace>
+    <AssemblyName>RiotGamesAPI</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\RiotSharp-master\RiotGamesAPI\RiotGamesAPI\bin\Debug\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json.Schema">
+      <HintPath>..\..\RiotSharp-master\RiotGamesAPI\RiotGamesAPI\bin\Debug\Newtonsoft.Json.Schema.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApiConnection.cs" />
+    <Compile Include="ApiMethod.cs" />
+    <Compile Include="API\ChampionMasteryV3.cs" />
+    <Compile Include="API\ChampionV3.cs" />
+    <Compile Include="API\LeagueV3.cs" />
+    <Compile Include="API\LolStatusV3.cs" />
+    <Compile Include="API\MatchV3.cs" />
+    <Compile Include="API\SpectatorV3.cs" />
+    <Compile Include="API\SummonerV3.cs" />
+    <Compile Include="API\ThirdPartyCodeV3.cs" />
+    <Compile Include="API\TournamentStubV3.cs" />
+    <Compile Include="API\TournamentV3.cs" />
+    <Compile Include="DTO\BannedChampion.cs" />
+    <Compile Include="DTO\ChampionInfo.cs" />
+    <Compile Include="DTO\ChampionMasteryDTO.cs" />
+    <Compile Include="DTO\CurrentGameInfo.cs" />
+    <Compile Include="DTO\CurrentGameParticipant.cs" />
+    <Compile Include="DTO\FeaturedGameInfo.cs" />
+    <Compile Include="DTO\FeaturedGames.cs" />
+    <Compile Include="DTO\GameCustomizationObject.cs" />
+    <Compile Include="DTO\LobbyEventDTO.cs" />
+    <Compile Include="DTO\LobbyEventDTOWrapper.cs" />
+    <Compile Include="DTO\MasteryDto.cs" />
+    <Compile Include="DTO\MatchEventDto.cs" />
+    <Compile Include="DTO\MatchFrameDto.cs" />
+    <Compile Include="DTO\MatchlistDto.cs" />
+    <Compile Include="DTO\MatchParticipantFrameDto.cs" />
+    <Compile Include="DTO\MatchPositionDto.cs" />
+    <Compile Include="DTO\MatchReferenceDto.cs" />
+    <Compile Include="DTO\MatchTimelineDto.cs" />
+    <Compile Include="DTO\Observer.cs" />
+    <Compile Include="DTO\Participant.cs" />
+    <Compile Include="DTO\ParticipantDto.cs" />
+    <Compile Include="DTO\ParticipantStatsDto.cs" />
+    <Compile Include="DTO\ParticipantTimelineDto.cs" />
+    <Compile Include="DTO\Perks.cs" />
+    <Compile Include="DTO\ProviderRegistrationParameters.cs" />
+    <Compile Include="DTO\RuneDto.cs" />
+    <Compile Include="DTO\TeamBansDto.cs" />
+    <Compile Include="DTO\Incident.cs" />
+    <Compile Include="DTO\LeagueItemDTO.cs" />
+    <Compile Include="DTO\LeagueListDTO.cs" />
+    <Compile Include="DTO\LeaguePositionDTO.cs" />
+    <Compile Include="DTO\MatchDto.cs" />
+    <Compile Include="DTO\Message.cs" />
+    <Compile Include="DTO\MiniSeriesDTO.cs" />
+    <Compile Include="DTO\ParticipantIdentityDto.cs" />
+    <Compile Include="DTO\PlayerDto.cs" />
+    <Compile Include="DTO\Service.cs" />
+    <Compile Include="DTO\ShardStatus.cs" />
+    <Compile Include="DTO\SummonerDTO.cs" />
+    <Compile Include="DTO\TeamStatsDto.cs" />
+    <Compile Include="DTO\TournamentCodeDTO.cs" />
+    <Compile Include="DTO\TournamentCodeParameters.cs" />
+    <Compile Include="DTO\TournamentCodeUpdateParameters.cs" />
+    <Compile Include="DTO\TournamentRegistrationParameters.cs" />
+    <Compile Include="DTO\Translation.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Utilities.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

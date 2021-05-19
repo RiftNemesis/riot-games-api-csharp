@@ -1,0 +1,38 @@
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\RiotGamesAPIConsole\bin\Debug\RiotGamesAPIConsole.exe
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\RiotGamesAPIConsole\bin\Debug\RiotGamesAPIConsole.pdb
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\RiotGamesAPIConsole\bin\Debug\RiotGamesAPI.dll
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\RiotGamesAPIConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\RiotGamesAPIConsole\bin\Debug\RiotGamesAPI.pdb
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.csprojResolveAssemblyReference.cache
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.Properties.Resources.resources
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.csproj.GenerateResource.Cache
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.exe
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.pdb
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.Form_Main.resources
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.Form_ConsoleTemplate.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPIConsole\bin\Debug\RiotGamesAPIConsole.exe.config
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPIConsole\bin\Debug\RiotGamesAPIConsole.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPIConsole\bin\Debug\RiotGamesAPIConsole.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPIConsole\bin\Debug\RiotGamesAPI.dll
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPIConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPIConsole\bin\Debug\RiotGamesAPI.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.csprojResolveAssemblyReference.cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.Form_ChampionMasteryV3.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.Form_ChampionV3.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.Form_Region.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.Form_SummonerV3.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.Form_TournamentV3.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.Form_TournamentStubV3.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.Form_ThirdPartyCodeV3.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.Form_SpectatorV3.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.Form_MatchV3.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.Form_LolStatusV3.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.Form_LeagueV3.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.Form_Main.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.Properties.Resources.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.csproj.GenerateResource.Cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\RiotGamesAPI\RiotGamesAPIConsole\bin\Debug\RiotGamesAPIConsole.exe.config
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\RiotGamesAPI\RiotGamesAPIConsole\obj\x86\Debug\RiotGamesAPIConsole.pdb

@@ -1,0 +1,16 @@
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\RiotGamesAPI\bin\Debug\RiotGamesAPI.dll.config
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\RiotGamesAPI\bin\Debug\RiotGamesAPI.dll
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\RiotGamesAPI\bin\Debug\RiotGamesAPI.pdb
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\RiotGamesAPI\obj\Debug\RiotGamesAPI.csprojResolveAssemblyReference.cache
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\RiotGamesAPI\obj\Debug\RiotGamesAPI.dll
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\RiotGamesAPI\obj\Debug\RiotGamesAPI.pdb
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\RiotGamesAPI\obj\Debug\RiotGamesAPI.Properties.Resources.resources
+C:\Users\Abdelhakim\Desktop\RiotGamesAPI\RiotGamesAPI\obj\Debug\RiotGamesAPI.csproj.GenerateResource.Cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPI\bin\Debug\RiotGamesAPI.dll.config
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPI\bin\Debug\RiotGamesAPI.dll
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPI\bin\Debug\RiotGamesAPI.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPI\obj\Debug\RiotGamesAPI.Properties.Resources.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPI\obj\Debug\RiotGamesAPI.csproj.GenerateResource.Cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPI\obj\Debug\RiotGamesAPI.dll
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPI\obj\Debug\RiotGamesAPI.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RiotGamesAPI\RiotGamesAPI\obj\Debug\RiotGamesAPI.csprojResolveAssemblyReference.cache
